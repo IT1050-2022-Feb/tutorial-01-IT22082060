@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 int main() {
-   inn num1, num2, avg;
+   int num1, num2, avg;
    printf("Enter first subject mark :");
    scanf("%d", &num1);
    
